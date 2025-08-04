@@ -1,13 +1,7 @@
+streamlit
 numpy
 pandas
 matplotlib
 networkx
 PyMuPDF
 openpyxl
-python-tsp instalar Librería 
-
-
-
-Aplicación del algoritmo Held-Karp
-
-se probo lo que era el algoritmo de vecino más cercano
